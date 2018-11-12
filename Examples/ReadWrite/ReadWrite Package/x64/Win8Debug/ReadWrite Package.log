@@ -1,0 +1,25 @@
+﻿Build started 12/11/2018 16:47:11.
+Project "C:\Users\user\documents\visual studio 2012\Projects\ReadWrite\ReadWrite Package\ReadWrite Package.vcxproj" on node 2 (Build target(s)).
+Inf2Cat:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\inf2cat.exe /os:8_x64 /driver:"C:\Users\user\documents\visual studio 2012\Projects\ReadWrite\x64\Win8Debug\ReadWrite Package" 
+  ......................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\user\documents\visual studio 2012\Projects\ReadWrite\x64\Win8Debug\ReadWrite Package\readwrite.cat
+DriverTestSign:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\signtool.exe sign /ph /sha1 "A8E1E10DCA76A4548D2AE5ECEA7840AA82723785" 
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\documents\visual studio 2012\Projects\ReadWrite\x64\Win8Debug\ReadWrite Package\readwrite.cat
+  
+Done Building Project "C:\Users\user\documents\visual studio 2012\Projects\ReadWrite\ReadWrite Package\ReadWrite Package.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.23

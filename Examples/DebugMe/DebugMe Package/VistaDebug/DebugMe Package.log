@@ -1,0 +1,8 @@
+﻿Build started 12/11/2018 15:03:55.
+Project "c:\Users\user\documents\visual studio 2012\Projects\DebugMe\DebugMe Package\DebugMe Package.vcxproj" on node 2 (Build target(s)).
+C:\Program Files (x86)\Windows Kits\8.0\build\WindowsDriver8.0.common.targets(1347,5): error MSB3030: Could not copy the file "c:\Users\user\documents\visual studio 2012\Projects\DebugMe\VistaDebug\DebugMe.sys" because it was not found.
+Done Building Project "c:\Users\user\documents\visual studio 2012\Projects\DebugMe\DebugMe Package\DebugMe Package.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.07

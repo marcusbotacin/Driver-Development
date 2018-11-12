@@ -1,0 +1,15 @@
+﻿Build started 12/11/2018 15:03:53.
+Project "c:\Users\user\documents\visual studio 2012\Projects\DebugMe\DebugMe\DebugMe.vcxproj" on node 2 (Build target(s)).
+StampInf:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\stampinf.exe -d "*" -a "x86" -v "*" -k "1.11" -u "1.11.0" -f VistaDebug\DebugMe.inf 
+  Stamping VistaDebug\DebugMe.inf [Version] section with DriverVer=11/12/2018,15.3.54.290
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IVistaDebug\ /Zi /nologo /W4 /WX /Od /Oi /Oy- /D _X86_=1 /D i386=1 /D STD_CALL /D DEPRECATE_DDK_FUNCTIONS=1 /D MSC_NOOPT /D WIN32_LEAN_AND_MEAN=1 /D _WIN32_WINNT=0x0600 /D WINVER=0x0600 /D WINNT=1 /D NTDDI_VERSION=0x06000100 /D DBG=1 /GF /Gm- /Zp8 /GS /Gy /fp:precise /hotpatch /Zc:wchar_t- /Zc:forScope- /GR- /Fo"VistaDebug\\" /Fd"VistaDebug\vc110.pdb" /Gz /wd4748 /wd4603 /wd4627 /wd4986 /wd4987 /wd4996 /FI"C:\Program Files (x86)\Windows Kits\8.0\Include\Shared\warning.h" /analyze- /errorReport:prompt /kernel -cbstring /d1import_no_registry /d2AllowCompatibleILVersions /d2Zi+ DebugMe.c
+  DebugMe.c
+DebugMe.c(8): error C2220: warning treated as error - no 'object' file generated
+DebugMe.c(8): warning C4100: 'DriverObject' : unreferenced formal parameter
+Done Building Project "c:\Users\user\documents\visual studio 2012\Projects\DebugMe\DebugMe\DebugMe.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.61

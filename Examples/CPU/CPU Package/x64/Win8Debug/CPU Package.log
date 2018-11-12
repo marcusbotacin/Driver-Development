@@ -1,0 +1,25 @@
+﻿Build started 12/11/2018 16:58:13.
+Project "c:\Users\user\documents\visual studio 2012\Projects\CPU\CPU Package\CPU Package.vcxproj" on node 2 (Build target(s)).
+Inf2Cat:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\inf2cat.exe /os:8_x64 /driver:"c:\Users\user\documents\visual studio 2012\Projects\CPU\x64\Win8Debug\CPU Package" 
+  .....................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  c:\Users\user\documents\visual studio 2012\Projects\CPU\x64\Win8Debug\CPU Package\cpu.cat
+DriverTestSign:
+  C:\Program Files (x86)\Windows Kits\8.0\bin\x86\signtool.exe sign /ph /sha1 "A8E1E10DCA76A4548D2AE5ECEA7840AA82723785" 
+  Done Adding Additional Store
+  Successfully signed: c:\Users\user\documents\visual studio 2012\Projects\CPU\x64\Win8Debug\CPU Package\cpu.cat
+  
+Done Building Project "c:\Users\user\documents\visual studio 2012\Projects\CPU\CPU Package\CPU Package.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.42
